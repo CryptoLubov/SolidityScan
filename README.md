@@ -54,3 +54,4 @@
 - Update note 2080
 - Update note 9406
 - Update note 9815
+- Update note 6760
