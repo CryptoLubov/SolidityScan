@@ -45,3 +45,4 @@ eth-abi==1.8.4
 requests==0.3.7
 requests==2.0.4
 eth-abi==1.8.2
+eth-abi==1.5.2
