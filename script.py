@@ -33,3 +33,4 @@
 # fix 6249
 # refactor 2111
 # optimize 7872
+# fix 6806
