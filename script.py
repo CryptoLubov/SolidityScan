@@ -16,3 +16,4 @@
 # optimize 8649
 # optimize 7925
 # fix 5519
+# fix 1134
